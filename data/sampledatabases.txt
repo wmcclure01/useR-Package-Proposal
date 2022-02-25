@@ -1,0 +1,4 @@
+Possible sample datasets for tests
+AdventureWorks Database (MSSQL Server) https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
+Employees (MySql) https://dev.mysql.com/doc/employee/en/
+Postgres DVD rental database https://www.postgresqltutorial.com/postgresql-sample-database/
