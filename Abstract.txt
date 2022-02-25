@@ -1,0 +1,7 @@
+Given the large variety of databases backed requiring a unique ODBC, methods for accessibility to data combining existing functions and processes are crucial.
+Compared to other areas of data science, there is a lack of openness and availability for a single interface, preventing data science from catching up with emerging 
+data science trends in data storage and access. We raise the question; can we build,  based on the R graphic user interface  (GUI) for connection, discovery, and 
+query building that combines existing functions and processes within SQL-based R libraries? To address this challenge, this presentation will demonstrate SQL queries
+to pull in data from a variety of databases. These tools provide an excellent foundation for access, exploration, and query cultivation in R. We will present our 
+upcoming R package titled DBI that will create the ODBC connections to data sources [DM], create [ERD]diagrams of the selected tables and columns, and build adaptive 
+SQL queries to be generated in R under single R package that will hold GUI interface.
