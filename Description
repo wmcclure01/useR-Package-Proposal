@@ -1,0 +1,9 @@
+Package: DBI
+Title: Streamlined data connection and delivery
+Version: 0.0.0.9000
+Authors@R: "Wayne McClure <mccluretampa@gmail.com> [aut, cre]"
+Description: Using functions and a GUI interface this package allows for easy connection to source databases via ODBC connections,
+    easy exploration of the underlying data structure and generalized data table queries to pull in dataframes of the data required.
+Depends: R (>= 3.1.2) Libraries DM, DBI, Rquery
+License: CCO
+LazyData: true
